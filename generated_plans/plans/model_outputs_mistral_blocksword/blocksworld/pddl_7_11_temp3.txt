@@ -1,0 +1,14 @@
+```
+(unstack b5 b4)
+(putdown b5)
+(unstack b7 b1)
+(putdown b7)
+(unstack b1 b6)
+(putdown b1)
+(unstack b2 btable)
+(stack b2 b1)
+(unstack b3 btable)
+(stack b3 b7)
+(stack b7 b5)
+(putdown b6)
+```

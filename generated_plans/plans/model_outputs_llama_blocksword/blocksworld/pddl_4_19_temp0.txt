@@ -1,0 +1,4 @@
+(unstack b1 b2)
+(putdown b1)
+(stack b4 b2)
+(putdown b1)

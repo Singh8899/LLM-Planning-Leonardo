@@ -1,0 +1,10 @@
+```
+(pickup b4)
+(putdown b4)
+(unstack b3 b1)
+(stack b3 b4)
+(unstack b1 b4)
+(putdown b1)
+(pickup b4)
+(putdown b4)
+```

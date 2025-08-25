@@ -1,0 +1,26 @@
+;;!domain: blocksworld
+;;!problem: blocksworld_n9_r60
+
+0.00000: (unstack b3 b2)
+0.00100: (putdown b3)
+0.00200: (unstack b2 b9)
+0.00300: (putdown b2)
+0.00400: (unstack b9 b4)
+0.00500: (putdown b9)
+0.00600: (unstack b4 b6)
+0.00700: (stack b4 b8)
+0.00800: (unstack b6 b5)
+0.00900: (stack b6 b9)
+0.01000: (unstack b1 b7)
+0.01100: (stack b1 b6)
+0.01200: (pickup b7)
+0.01300: (stack b7 b1)
+0.01400: (unstack b4 b8)
+0.01500: (stack b4 b7)
+0.01600: (pickup b8)
+0.01700: (stack b8 b5)
+0.01800: (pickup b3)
+0.01900: (stack b3 b8)
+
+; Makespan: 0.01900000000000001
+; Metric: 0.01900000000000001

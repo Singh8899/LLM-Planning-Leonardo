@@ -1,0 +1,5 @@
+(unstack b1 b3)
+(unstack b2 b4)
+(stack b4 b3)
+(stack b3 b2)
+(stack b1 b4)

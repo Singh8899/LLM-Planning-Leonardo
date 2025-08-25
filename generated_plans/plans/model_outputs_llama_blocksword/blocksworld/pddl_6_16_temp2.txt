@@ -1,0 +1,19 @@
+(unstack b3 b4)
+(pickup b3)
+(putdown b3)
+(pickup b5)
+(stack b5 b4)
+(pickup b6)
+(stack b6 b5) 
+is not a valid plan.
+
+Here is a new plan:
+(unstack b3 b4)
+(pickup b3)
+(putdown b3)
+(pickup b2)
+(putdown b2)
+(pickup b5)
+(stack b5 b4)
+(pickup b6)
+(stack b6 b5)

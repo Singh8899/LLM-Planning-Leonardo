@@ -1,0 +1,18 @@
+```
+(unstack b6 b5)
+(putdown b6)
+(stack b6 b7)
+(pickup b5)
+(unstack b2 b5)
+(putdown b2)
+(pickup b5)
+(stack b5 b1)
+(unstack b1 b4)
+(putdown b1)
+(pickup b1)
+(stack b1 b3)
+(pickup b5)
+(stack b5 b1)
+```
+
+Generated in 4 iterations.

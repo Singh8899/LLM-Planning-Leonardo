@@ -1,0 +1,16 @@
+(unstack b6 b5)
+(putdown b6)
+(unstack b3 b4)
+(putdown b3)
+(pickup b1)
+(putdown b1)
+(pickup b3)
+(stack b3 b1)
+(pickup b2)
+(stack b2 b3)
+(pickup b5)
+(stack b5 b2)
+(pickup b6)
+(putdown b6)
+
+Generated in 3 iterations.

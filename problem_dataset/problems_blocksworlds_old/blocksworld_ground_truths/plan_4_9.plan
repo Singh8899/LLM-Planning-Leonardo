@@ -1,0 +1,10 @@
+;;!domain: blocksworld
+;;!problem: blocksworld_n4_r9
+
+0.00000: (pickup b4)
+0.00100: (stack b4 b3)
+0.00200: (unstack b1 b2)
+0.00300: (stack b1 b4)
+
+; Makespan: 0.003
+; Metric: 0.003

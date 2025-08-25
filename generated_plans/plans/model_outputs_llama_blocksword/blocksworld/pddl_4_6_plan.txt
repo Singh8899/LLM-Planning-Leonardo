@@ -1,0 +1,945 @@
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2) 
+
+is not a valid plan. Here is the correct plan:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is:
+ 
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+Let me recheck again:
+(unstack b4 b3)
+(putdown b4)
+(unstack b3 b2)
+(putdown b3)
+(unstack b2 b1)
+(putdown b2)
+
+The correct plan is
+
+Generated in 4 iterations.

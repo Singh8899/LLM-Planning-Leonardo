@@ -1,0 +1,14 @@
+```
+(unstack b3 b7)
+(putdown b3)
+(unstack b5 b2)
+(putdown b5)
+(unstack b6 b5)
+(putdown b6)
+(pickup b1)
+(stack b1 b5)
+(pickup b3)
+(stack b3 b2)
+(pickup b7)
+(stack b7 b4)
+```

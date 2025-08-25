@@ -1,0 +1,2 @@
+huggingface-cli login  ###ONLY IF NEEDED###
+huggingface-cli download microsoft/Phi-4-reasoning-plus --local-dir /leonardo_scratch/fast/IscrC_ArtLLMs/hf_weights/Phi_4_reasoning_plus --local-dir-use-symlinks False

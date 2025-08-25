@@ -1,0 +1,15 @@
+(unstack b3 b1)
+(unstack b1 b2)
+(putdown b1)
+(putdown b3)
+(pickup b3)
+(stack b3 b2) 
+is not a valid plan.
+
+A valid plan is:
+(unstack b3 b1)
+(putdown b3)
+(unstack b1 b2)
+(putdown b1)
+(pickup b3)
+(stack b3 b2)

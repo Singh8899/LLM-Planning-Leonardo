@@ -1,0 +1,1 @@
+salloc --partition=boost_usr_prod --qos=normal --nodes=1 --cpus-per-task=8 --gres=gpu:4 --time=16:00:00 --account=IscrC_ArtLLMs 

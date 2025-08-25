@@ -1,0 +1,4 @@
+VAL_PATH: "/leonardo_work/IscrC_ArtLLMs/VAL/build/linux64/Release/bin/Validate"
+MODEL_PATH: "/leonardo_scratch/fast/IscrC_ArtLLMs/hf_weights/llama3_70b"
+MODEL_OUTPUT: "/leonardo_work/IscrC_ArtLLMs/Workspace/generated_plans/plans/model_outputs_llama_blocksword"
+PROBLEMS_PATH: "/leonardo_work/IscrC_ArtLLMs/Workspace/problem_dataset/problems_blocksworlds"

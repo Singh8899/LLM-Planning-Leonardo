@@ -1,0 +1,5 @@
+iteration,success_rate_percent,marginal_improvement,avg_logical_violations,violation_reduction,avg_valid_action_percent,valid_action_improvement,problems_with_plans,plan_generation_rate_percent
+1,0.7,0.7,2.89,0.00,19.4,0.0,141,100.0
+2,2.8,2.1,2.83,0.06,21.8,2.4,141,100.0
+3,0.7,-2.1,2.85,-0.02,19.1,-2.7,138,97.9
+4,1.4,0.7,2.89,-0.04,19.4,0.3,138,97.9

@@ -1,0 +1,12 @@
+```
+(unstack b5 b1)
+(putdown b5)
+(unstack b1 b2)
+(stack b1 b5)
+(unstack b2 b6)
+(putdown b2)
+(unstack b6 b3)
+(stack b6 b4)
+(unstack b3 b6)
+(stack b3 b4)
+```

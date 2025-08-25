@@ -1,0 +1,37 @@
+TO INSTALL AND COMPILE VAL on CINECA:
+1) login to the CINECA with ssh
+2) enter the following comands in terminal:
+
+mkdir -p $HOME/tools
+cd $HOME/tools
+
+wget https://ftp.gnu.org/gnu/bison/bison-3.8.2.tar.gz
+tar -xzf bison-3.8.2.tar.gz
+cd bison-3.8.2
+./configure --prefix=$HOME/tools/bison
+make -j$(nproc)
+make install
+
+cd $HOME/tools
+wget https://github.com/westes/flex/releases/download/v2.6.4/flex-2.6.4.tar.gz
+tar -xzf flex-2.6.4.tar.gz
+cd flex-2.6.4
+./configure --prefix=$HOME/tools/flex
+make -j$(nproc)
+make install
+
+3) enter the following lines in the bashrc (open with nano ~/.bashrc):
+export PATH=$HOME/tools/bison/bin:$HOME/tools/flex/bin:$PATH
+export LD_LIBRARY_PATH=$HOME/tools/bison/lib:$HOME/tools/flex/lib:$LD_LIBRARY_PATH
+
+4) enter the following comands in terminal:
+source ~/.bashrc
+cd
+module load cmake gcc/12.2.0
+cd ~/VAL/
+scripts/linux/build_linux64.sh all Release
+
+5) to set alias and run just with "validate" add the following in the bashrc:
+alias validate='/leonardo/home/userexternal/jsingh00/VAL/build/linux64/Release/bin/Validate'
+
+
